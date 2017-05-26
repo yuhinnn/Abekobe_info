@@ -29,10 +29,10 @@
 define('DB_NAME', 'wordpress');
 
 /** MySQL データベースのユーザー名 */
-define('DB_USER', 'username_here');
+define('DB_USER', 'root');
 
 /** MySQL データベースのパスワード */
-define('DB_PASSWORD', 'password_here');
+define('DB_PASSWORD', '');
 
 /** MySQL のホスト名 */
 define('DB_HOST', 'localhost');
